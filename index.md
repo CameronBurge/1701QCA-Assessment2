@@ -82,7 +82,7 @@ an object that sits niceley on a bedside table that is flipped to different side
 ![Image](Example1.jpg)
 
 Maybe make it stackable somehow??
-![Image](example2.jpg)
+![Image](example2.JPG)
 
 
 ## Physical experimentation documentation ##
