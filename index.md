@@ -64,28 +64,24 @@ This project is related to mine because through motion of people on a snowboard 
 
 This project is related to mine because using the accelerometer it corrects its orrientation to stay up right.
 
-## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
-
-### *Brief resource name/description* ###
-
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+Create a interactive device that displays lights/Information depending on movement
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+a cube with multiple faces and functions. for example, one side displays time, one temperature, one weather. using the accelerometre it can detect what side its facing and display the correspodning information. 
 
 ### Design concept 2 ###
-*Put details here.*
+a mood tracker. a small device with a series of steps it can be placed on. depending on your mood each day you can put the device higher or lower and it will display a color depending on what mood step youve put it on. could be a good way to tell people how your feeling without saying it.
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+an object that sits niceley on a bedside table that is flipped to different sides to create different light show. examples like a a fast stobe to pair with some music for a bedroom party. a slow transitioning color wheel for if you need something mellow to fill the room. single color projection to fill a room with a certain color. a regular light to make a room brighter. im inspired by natural rocks with strange yet practicle standing shapes. some examples.
+
+![Image]()
+
+![Image]()
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
