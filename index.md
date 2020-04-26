@@ -94,13 +94,13 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](missingimage.png)
+![Image](Test1.JPG)
 
-![Image](missingimage.png)
+![Image](Test2.JPG)
 
-![Image](missingimage.png)
+![Image](Test3.JPG)
 
-![Image](missingimage.png)
+![Image](Code1)
 
 ## Design process discussion ##
 By first sitting down and writing ideas down i was able to come up with a rough intent, and it was only after talking about it on the disscussion board that i refined it. reseaching others projects help me develop ideas for lighting aswell as coding for my prototype and materials i might want to look into for the future.
