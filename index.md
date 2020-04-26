@@ -5,19 +5,64 @@ You will use this workbook to keep track of your progress through the course and
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
 ## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+*Interactive lighting.*
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
+*Gravity of light*
 
-*Insert URL to project*
+*https://www.trendhunter.com/trends/led-hat*
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because of the way it uses light and movement to create an interactive item. this hat reacts to differnt movements and wil display a light show according to them.
+
+### Related project 2 ###
+*Arduino Accelerometer Data Logger Project*
+
+*https://www.youtube.com/watch?v=7EBpjjKGRJQ*
+
+![Image](missingimage.png)
+
+This project is related to mine because of the use of an accelerometre. using an accelerometre the man craeted a data logger to learn about what happens when a car accelerwates and goes around corners.
+
+### Related project 3 ###
+*Great Street Games*
+
+*https://www.trendhunter.com/trends/great-street-games*
+
+![Image](missingimage.png)
+
+This project is related to mine because of its use of movement and coreponding light shows. this project gets a community involved to play games with light.
+
+### Related project 4 ###
+*gesture controled robot*
+
+*https://www.youtube.com/watch?v=rejZmqRrKMc*
+
+![Image](missingimage.png)
+
+This project is related to mine because of its use of motion using an accelerometer. using an accelerometer and the directional movemnt of the users had the robot will move according to the controller.
+
+### Related project 5 ###
+*Color Mountain*
+
+*https://www.trendhunter.com/trends/color-mountain*
+
+![Image](missingimage.png)
+
+This project is related to mine because through motion of people on a snowboard different lights are being projected onto the snow hills.
+
+### Related project 6 ###
+*Arduino Project-Self Balancing Robot*
+
+*https://www.youtube.com/watch?v=I6z26LVu5y0*
+
+![Image](missingimage.png)
+
+This project is related to mine because using the accelerometer it corrects its orrientation to stay up right.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
