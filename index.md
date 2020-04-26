@@ -15,7 +15,7 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 *https://www.trendhunter.com/trends/led-hat*
 
-![Image](missingimage.png)
+![Image](Proj1.png)
 
 This project is related to mine because of the way it uses light and movement to create an interactive item. this hat reacts to differnt movements and wil display a light show according to them.
 
@@ -24,7 +24,7 @@ This project is related to mine because of the way it uses light and movement to
 
 *https://www.youtube.com/watch?v=7EBpjjKGRJQ*
 
-![Image](missingimage.png)
+![Image](Proj2.png)
 
 This project is related to mine because of the use of an accelerometre. using an accelerometre the man craeted a data logger to learn about what happens when a car accelerwates and goes around corners.
 
@@ -33,7 +33,7 @@ This project is related to mine because of the use of an accelerometre. using an
 
 *https://www.trendhunter.com/trends/great-street-games*
 
-![Image](missingimage.png)
+![Image](Proj3.png)
 
 This project is related to mine because of its use of movement and coreponding light shows. this project gets a community involved to play games with light.
 
@@ -42,7 +42,7 @@ This project is related to mine because of its use of movement and coreponding l
 
 *https://www.youtube.com/watch?v=rejZmqRrKMc*
 
-![Image](missingimage.png)
+![Image](Proj4.png)
 
 This project is related to mine because of its use of motion using an accelerometer. using an accelerometer and the directional movemnt of the users had the robot will move according to the controller.
 
@@ -51,7 +51,7 @@ This project is related to mine because of its use of motion using an accelerome
 
 *https://www.trendhunter.com/trends/color-mountain*
 
-![Image](missingimage.png)
+![Image](Proj5.png)
 
 This project is related to mine because through motion of people on a snowboard different lights are being projected onto the snow hills.
 
@@ -60,7 +60,7 @@ This project is related to mine because through motion of people on a snowboard 
 
 *https://www.youtube.com/watch?v=I6z26LVu5y0*
 
-![Image](missingimage.png)
+![Image](Proj6.png)
 
 This project is related to mine because using the accelerometer it corrects its orrientation to stay up right.
 
