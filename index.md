@@ -100,7 +100,7 @@ Ensure you include comments about the choices you've made along the way.*
 
 ![Image](Test3.JPG)
 
-![Image](Code1)
+![Image](Code1.png)
 
 ## Design process discussion ##
 By first sitting down and writing ideas down i was able to come up with a rough intent, and it was only after talking about it on the disscussion board that i refined it. reseaching others projects help me develop ideas for lighting aswell as coding for my prototype and materials i might want to look into for the future.
