@@ -79,14 +79,11 @@ a mood tracker. a small device with a series of steps it can be placed on. depen
 ### Final design concept ###
 an object that sits niceley on a bedside table that is flipped to different sides to create different light show. examples like a a fast stobe to pair with some music for a bedroom party. a slow transitioning color wheel for if you need something mellow to fill the room. single color projection to fill a room with a certain color. a regular light to make a room brighter. im inspired by natural rocks with strange yet practicle standing shapes. some examples.
 
-![Image]()
+![Image](Example1.jpg)
 
-![Image]()
+Maybe make it stackable somehow??
+![Image](example2.jpg)
 
-### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
-
-![Image](missingimage.png)
 
 ## Physical experimentation documentation ##
 
@@ -99,8 +96,14 @@ Ensure you include comments about the choices you've made along the way.*
 
 ![Image](missingimage.png)
 
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+By first sitting down and writing ideas down i was able to come up with a rough intent, and it was only after talking about it on the disscussion board that i refined it. reseaching others projects help me develop ideas for lighting aswell as coding for my prototype and materials i might want to look into for the future.
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+i plan to gather materials in the very near futre for the electronics as well as the materails for the construction. i would like to sketch up some rough ideas and refine them into one after talking to peers. i also need a little more practice coding for the accelerometre before the fnal due in week 12.
